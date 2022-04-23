@@ -3,8 +3,8 @@ import './header.styles.scss';
 const Header = () => {
     return (
         <div className='header-container'>
-            <h1>CHIN UP</h1>
-            <h2>The Mental Health App</h2>;
+            <h1>chin up</h1>
+            <h2>mental health awareness</h2>;
         </div>
     );
 };
