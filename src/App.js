@@ -4,7 +4,6 @@ import Axios from 'axios';
 import './styles.css';
 
 
-
 function App() {
   const [excuse, setExcuse] = useState('');
   const [category, setCategory] = useState('');
