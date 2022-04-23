@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 import Axios from 'axios';
-import './styles.css';
+import './styles.scss';
 
 
 function App() {
@@ -20,11 +20,17 @@ function App() {
   return (
     <div className="container">
       <h1>CHIN UP</h1>
-      <p>The Mental Health App</p>
+      <h2>The Mental Health App</h2>
       {/* Clicking the generate button will display the Excuse and Category */}
-      <button onClick={handleClick}>Generate</button>
-      <p>Excuse: {excuse}</p>
-      <p>Category: {category}</p>
+      <div className='excuse-generator'>
+        <button onClick={handleClick}>Generate</button>
+        <p>Excuse: {excuse}</p>
+        <p>Category: {category}</p>
+      </div>
+      <footer>
+        <p className='footer-main-text'>I dedicate this application to my love, <span>Michelle</span>.</p>
+        <p className='footer-sub-text'>Who fights every single day to be the strongest woman she knows.</p>
+      </footer>
     </div>
   );
 }
