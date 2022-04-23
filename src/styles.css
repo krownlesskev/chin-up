@@ -8,10 +8,16 @@
 .container{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    background-color: #EAE7E2;
+    height: 100vh;
 }
 
 .container h1 {
-    margin: 10vh 0;
+    margin-top: 15vh;
+    font-size: 100px;
+}
+
+.container p {
+    font-size: 32px;
 }
