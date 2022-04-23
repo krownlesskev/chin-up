@@ -29,7 +29,7 @@ function App() {
       </div>
       <footer>
         <p className='footer-main-text'>I dedicate this application to my love, <span>Michelle</span>.</p>
-        <p className='footer-sub-text'>Who fights every single day to be the strongest woman she knows.</p>
+        <p className='footer-sub-text'>Who fights every single day to be the strongest woman she already is.</p>
       </footer>
     </div>
   );
