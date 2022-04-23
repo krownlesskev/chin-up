@@ -13,6 +13,23 @@ button {
     padding: 10px;
 }
 
+button:hover {
+    cursor: pointer;
+    background-color: #FCC9C5;
+    transition: 0.5s;
+}
+
+button:not(:hover) {
+    background-color: white;
+    transition: 0.5s;
+}
+
+button:active {
+    color: white;
+    transition: 0.1s;
+}
+
+
 p {
     text-align: center;
 }

@@ -1,0 +1,20 @@
+nav {
+    background-color: #EAE7E2;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    ul {
+        width: 100vh;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        
+        li{
+            margin: 10px;
+        }
+    }
+}
+
+.nav-home {
+    flex: 2;
+}
