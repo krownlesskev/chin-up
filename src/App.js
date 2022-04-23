@@ -7,7 +7,7 @@ import './styles.scss';
 
 function App() {
   return (
-    <div className="container">
+    <div className='app-container'>
       <Header />
       <ExcusesContainer />
       <Footer />

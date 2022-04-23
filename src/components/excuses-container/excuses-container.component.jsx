@@ -4,7 +4,7 @@ import './excuses-container.styles.scss';
 
 const ExcusesContainer = () => {
     return (
-        <div className='excuses-container'>
+        <div className='excuses-container-container'>
             <ExcuseButton category='Family' />
             <ExcuseButton category='Office' />
             <ExcuseButton category='Children' />
