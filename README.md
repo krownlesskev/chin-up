@@ -4,6 +4,8 @@
 
 All in one application with resources to help you improve your mental health.
 
+I started working on this app to learn how to get information from API's and display them somewhere.
+
 Ironically I started working on this when I was going through something.
 
 ### Features
