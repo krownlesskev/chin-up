@@ -20,4 +20,9 @@
 
 .container p {
     font-size: 32px;
+    font-weight: 700;
+}
+
+button {
+    font-size: 64px;
 }
