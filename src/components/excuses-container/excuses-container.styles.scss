@@ -1,0 +1,12 @@
+.excuses-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    width: 500px;
+
+    p {
+        font-size: 30px;
+        font-weight: 500;
+    }
+}
