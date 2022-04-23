@@ -1,7 +1,7 @@
 import Axios from "axios";
 import { useState } from 'react';
 
-
+import './excuse-button.styles.scss';
 
 const ExcuseButton = ({ category }) => {
     const [excuse, setExcuse] = useState('');
