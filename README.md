@@ -6,7 +6,7 @@ All in one application with resources to help you improve your mental health.
 
 Ironically I started working on this when I was going through something.
 
-### `Features`
+### Features
 
 #### `Call Out Generator`
 
