@@ -10,7 +10,7 @@ Ironically I started working on this when I was going through something.
 
 ### Features
 
-#### `Call Out Generator`
+#### `Excuse Generator`
 
 Don't feel like showing up to work or socializing?
 Can't think of what to say?
