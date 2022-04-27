@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chin-up/static/css/main.026f683f.css",
+    "main.js": "/chin-up/static/js/main.1dc8bd8a.js",
+    "index.html": "/chin-up/index.html",
+    "main.026f683f.css.map": "/chin-up/static/css/main.026f683f.css.map",
+    "main.1dc8bd8a.js.map": "/chin-up/static/js/main.1dc8bd8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026f683f.css",
+    "static/js/main.1dc8bd8a.js"
+  ]
+}
