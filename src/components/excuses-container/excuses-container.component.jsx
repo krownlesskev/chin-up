@@ -7,7 +7,6 @@ const ExcusesContainer = () => {
         <div className='excuses-container-container'>
             <ExcuseButton category='Family' />
             <ExcuseButton category='Office' />
-            <ExcuseButton category='Children' />
             <ExcuseButton category='Party' />
         </div>
     );
