@@ -5,7 +5,8 @@ const Navbar = () => {
         <nav>
             <ul>
                 <li className='nav-home'>Home</li>
-                <li>Excuse Generator</li>
+                {/* Because api is not working right now, we will leave this out. */}
+                {/* <li>Excuse Generator</li> */}
                 <li>Resources</li>
                 <li>About</li>
                 <li>Contact Me</li>
