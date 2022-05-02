@@ -6,8 +6,6 @@ const Navbar = () => {
         <nav>
             <ul>
                 <Link to='/' className='link'>Home</Link>
-                {/* Because api is not working right now, we will leave this out. */}
-                {/* <li>Excuse Generator</li> */}
                 <li>Resources</li>
                 <li>About</li>
                 <li>Contact</li>
