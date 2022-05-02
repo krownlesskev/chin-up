@@ -1,22 +1,19 @@
 import Navbar from './components/navbar/navbar.component';
-import Header from './components/header/header.component';
-// import ExcusesContainer from './components/excuses-container/excuses-container.component';
-import Footer from './components/footer/footer.component';
+import Home from './pages/Home/Home';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 import './styles.scss';
 
 
 function App() {
   return (
-    <>
+    <Router>
       <Navbar />
-      <div className='app-container'>
-        <Header />
-        {/* API for excuser seems to be down as of 04/28/2022, will leave it out for now */}
-        {/* <ExcusesContainer /> */}
-        <Footer />
-      </div>
-    </>
+      <Routes>
+        <Route path='/chin-up' element={<Home />} />
+        <Route path='*' element={<Home />} />
+      </Routes>
+    </Router>
   );
 }
 

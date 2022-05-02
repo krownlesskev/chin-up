@@ -12,10 +12,6 @@ Ironically I started working on this when I was going through something.
 
 #### `Excuse Generator`
 
-## As of 04-28-2022 The Excuser API is not working. I have removed the excuse generator in the meantime.
-
-`There is a possibility I might just make my own to play around with API endpoints again.`
-
 Don't feel like showing up to work or socializing?
 Can't think of what to say?
 Don't. Just hit the generate button and we'll think of something for you.
