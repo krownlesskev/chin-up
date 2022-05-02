@@ -19,3 +19,8 @@ Don't. Just hit the generate button and we'll think of something for you.
 #### `Resources`
 
 Will add helpful resources for some reading / watching
+
+### `Demo Link:`
+https://krownlesskev.github.io/chin-up/
+
+or clone the repo and run `npm start`
